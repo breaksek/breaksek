@@ -9,7 +9,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/breaksek?tab=followers"><img src="https://img.shields.io/github/followers/arif?style=for-the-badge&color=06b6d4&labelColor=111827" alt="Followers"></a>
+    <a href="https://github.com/breaksek?tab=followers"><img src="https://img.shields.io/github/followers/breaksek?style=for-the-badge&color=06b6d4&labelColor=111827" alt="Followers"></a>
     <a href="https://github.com/breaksek"><img src="https://img.shields.io/github/stars/arif?style=for-the-badge&color=8b5cf6&labelColor=111827" alt="Stars"></a>
     <a href="mailto:wargakenter@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email"></a>
   </p>
