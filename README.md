@@ -87,12 +87,12 @@
 <div align="center">
 
   <p>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=06b6d4&text_color=94a3b8&icon_color=8b5cf6" alt="Arif's GitHub Stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=06b6d4&text_color=94a3b8" alt="Top Languages" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=breaksek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=06b6d4&text_color=94a3b8&icon_color=8b5cf6" alt="Arif's GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breaksek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=06b6d4&text_color=94a3b8" alt="Top Languages" />
   </p>
 
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0b0f19&ring=06b6d4&fire=8b5cf6&currStreakLabel=06b6d4" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=breaksek&theme=tokyonight&hide_border=true&background=0b0f19&ring=06b6d4&fire=8b5cf6&currStreakLabel=06b6d4" alt="GitHub Streak" />
   </p>
 
 </div>
@@ -120,4 +120,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 
 </div>
-```
